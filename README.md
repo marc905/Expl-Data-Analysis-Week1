@@ -1,9 +1,9 @@
 # Expl-Data-Analysis-Week1
 Coursera Data Science Curriculum - Exploratory Data Analysis Week 1 Project
-# Overview:  
-# This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository 
-# for machine learning datasets. In particular, we will be using the "Individual household electric 
-# power consumption Data Set" 
+Overview:  
+This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository 
+for machine learning datasets. In particular, we will be using the "Individual household electric 
+power consumption Data Set" 
 
 # Dataset:  Description: Measurements of electric power consumption in one household with a one-minute 
 # sampling rate over a period of almost 4 years. 
