@@ -23,7 +23,7 @@ Sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It co
 Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 
 Approach:
-Our overall goal here is simply to examine how household energy usage varies over a 2-day period in February, 2007. Your task is to reconstruct the following plots below, all of which were constructed using the base plotting system.
+Our overall goal here is simply to examine how household energy usage varies over a 2-day period in February, 2007. The task is to reconstruct several plots, all of which were constructed using the base plotting system.
 
 First you will need to fork and clone the following GitHub repository: https://github.com/rdpeng/ExData_Plotting1
 
